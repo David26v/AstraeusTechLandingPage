@@ -320,24 +320,8 @@ const ContactUs = () => {
         </Card>
       </div>
 
-      {/* Trust Signals */}
-      <div className="mt-16 text-center">
-        <p className="text-sm text-blue-200 mb-6">Trusted by leading Philippine companies</p>
-        <div className="flex flex-wrap justify-center items-center gap-8">
-          <div className="px-6 py-3 bg-white/20 backdrop-blur-sm rounded-lg border border-white/10">
-            <div className="text-lg font-bold text-white">200+ Projects</div>
-          </div>
-          <div className="px-6 py-3 bg-white/20 backdrop-blur-sm rounded-lg border border-white/10">
-            <div className="text-lg font-bold text-white">98% Success Rate</div>
-          </div>
-          <div className="px-6 py-3 bg-white/20 backdrop-blur-sm rounded-lg border border-white/10">
-            <div className="text-lg font-bold text-white">5-Star Reviews</div>
-          </div>
-          <div className="px-6 py-3 bg-white/20 backdrop-blur-sm rounded-lg border border-white/10">
-            <div className="text-lg font-bold text-white">24/7 Support</div>
-          </div>
-        </div>
-      </div>
+     
+     
     </div>
   );
 };

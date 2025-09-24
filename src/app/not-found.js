@@ -30,8 +30,8 @@ const NotFoundPage = () => {
       {/* Header with Logo */}
       <header className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
         <Image
-          src="/images/logo.png"
-          alt="Company Logo"
+          src="/images/astraeus-tech.jpeg"
+          alt="Astraeus Tech Logo"
           width={180}
           height={45}
           className="h-10 w-auto"
